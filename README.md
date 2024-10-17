@@ -1,5 +1,5 @@
 # nlp_from_basic_to_advanced
-Junyeon Lee, AI&Data Part Core member at GDG on Campus: CNU 
+Junyeon Lee, GDG on Campus: CNU - AI&Data Part Core member
 
 # 자연어처리 하나부터 열까지
 
